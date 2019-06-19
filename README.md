@@ -2,12 +2,12 @@
 Data Carpentry class
 
 # Name:
-- Davide Ortolan
+- Kamil Kruczek
 
 # Scientist:
-- Molecular biologist
+- Stem cell biologist
 
 # 3 experiments:
-- Immunofluorescent
-- Cell culture
-- Imaging
+- RNA-seq
+- Tissue culture
+- Microscopy
